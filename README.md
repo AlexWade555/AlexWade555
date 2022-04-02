@@ -6,9 +6,9 @@
 - 📧 Contact me via alexjohnwade@gmail.com
 
 <h3 align="left">Check out my projects</h3>
-<p align="left"><a hfref="http://www.churnit.me/">ChurnIt</a></p>
-  <p align="left"><a hfref="https://fantastic4learnit.herokuapp.com/">LearnIt</a></p>
-  <p align="left"><a hfref="https://www.avinlearning.com/">Avin Learning</a></p>
+<p align="left"><a href="http://www.churnit.me/">ChurnIt</a> - A simple credit card comparison site for people comparing cards quickly</p>
+  <p align="left"><a href="https://fantastic4learnit.herokuapp.com/">LearnIt</a> - A marketplace app for tutors and students to connect via lessons and book sessions</p>
+  <p align="left"><a href="https://www.avinlearning.com/">Avin Learning</a> - A Melbounre based tutoring company</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
