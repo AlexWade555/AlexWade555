@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A junior Front-End Developer from Melbourne</h3>
 
+- 👩‍🎓 I’ve recently graduated from Le Wagon's Software Development Bootcamp
 - 🌱 I’m currently learning **Javascript**
+- 📧 Contact me via alexjohnwade@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
