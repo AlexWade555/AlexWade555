@@ -6,11 +6,9 @@
 - 📧 Contact me via alexjohnwade@gmail.com
 
 <h3 align="left">Check out my projects</h3>
-<p align="left">
-  <a hfref="http://www.churnit.me/">ChurnIt</a>
-  <a hfref="https://fantastic4learnit.herokuapp.com/">LearnIt</a>
-  <a hfref="https://www.avinlearning.com/">Avin Learning</a>
-  </p>
+<p align="left"><a hfref="http://www.churnit.me/">ChurnIt</a></p>
+  <p align="left"><a hfref="https://fantastic4learnit.herokuapp.com/">LearnIt</a></p>
+  <p align="left"><a hfref="https://www.avinlearning.com/">Avin Learning</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
