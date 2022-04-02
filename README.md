@@ -2,8 +2,15 @@
 <h3 align="center">A junior Front-End Developer from Melbourne</h3>
 
 - 👩‍🎓 I’ve recently graduated from Le Wagon's Software Development Bootcamp
-- 🌱 I’m currently learning **Javascript**
+- 💪 I’m currently looking for work in Front-End Development
 - 📧 Contact me via alexjohnwade@gmail.com
+
+<h3 align="left">Check out my projects</h3>
+<p align="left">
+  <a hfref="http://www.churnit.me/">ChurnIt</a>
+  <a hfref="https://fantastic4learnit.herokuapp.com/">LearnIt</a>
+  <a hfref="https://www.avinlearning.com/">Avin Learning</a>
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
