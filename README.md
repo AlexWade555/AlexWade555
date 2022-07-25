@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A Junior Front-End Developer from Melbourne</h3>
+<h3 align="center">A Full-Stack Web Developer from Melbourne</h3>
 
+- 🍸 Currently making an app for restaurants to keep beverage tasting notes
 - 👩‍🎓 I’ve recently graduated from Le Wagon's Software Development Bootcamp
 - 💪 I’m currently looking for work in Front-End Development
 - 📧 Contact me via alexjohnwade@gmail.com
