@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A Full-Stack Web Developer from Melbourne</h3>
 
-- 🍸 Currently making an app for restaurants to keep beverage tasting notes
-- 👩‍🎓 I’ve recently graduated from Le Wagon's Software Development Bootcamp
-- 💪 I’m currently looking for work in Front-End Development
+- 👨‍💻 Currently studying <a href="https://generalassemb.ly/education/react-development/sydney"> General Assembly's React Development</a>
+- 👩‍🎓 I’ve recently graduated from <a href="https://www.lewagon.com/web-development-course">Le Wagon's Software Development Bootcamp</a>
+- 💪 I’m currently looking for work in Software Development
 - 📧 Contact me via alexjohnwade@gmail.com
 
 <h3 align="left">Check out my projects</h3>
-<p align="left"><a href="http://www.churnit.me/">ChurnIt</a> - A simple credit card comparison site for people comparing cards quickly</p>
-  <p align="left"><a href="https://fantastic4learnit.herokuapp.com/">LearnIt</a> - A marketplace app for tutors and students to connect via lessons and book sessions</p>
-  <p align="left"><a href="https://www.avinlearning.com/">Avin Learning</a> - A Melbourne based tutoring company</p>
+<p align="left"><a href="https://churnit2.herokuapp.com/">ChurnIt</a> - A credit card comparison site for people comparing cards quickly. Built in Ruby on Rails</p>
+  <p align="left"><a href="https://learnit3.herokuapp.com/">LearnIt</a> - A marketplace app for tutors and students to connect via lessons and book sessions. Built in Ruby on Rails</p>
+  <p align="left"><a href="https://www.avinlearning.com/">Avin Learning</a> - A Melbourne based tutoring company. Built on Wix</p>
+  <p align="left"><a href="https://react-stocks-app-psi.vercel.app/"> - A stock market tracking app. Built in React</a>
+  <p align="left"><a href="https://react-stocks-app-psi.vercel.app/"> - A meals information app for saving fav meals. Built in React</a>
+  <p align="left"><a href="https://react-stocks-app-psi.vercel.app/"> - A Team member allocation app. My first React application learning basic functions. Built in React</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alex-wade555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-wade555" height="30" width="40" /></a>
-<a href="https://fb.com/alex.wade.376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alex.wade.376" height="30" width="40" /></a>
-<a href="https://instagram.com/ano_555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ano_555" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
