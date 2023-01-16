@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A Full-Stack Web Developer from Melbourne</h3>
+
+<h3 align="left">A Full-Stack Web Developer from Melbourne</h3>
 
 - 👨‍💻 Currently studying <a href="https://generalassemb.ly/education/react-development/sydney"> General Assembly's React Development</a>
 - 👩‍🎓 I’ve recently graduated from <a href="https://www.lewagon.com/web-development-course">Le Wagon's Software Development Bootcamp</a>
