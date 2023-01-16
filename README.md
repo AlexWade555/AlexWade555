@@ -10,9 +10,9 @@
 <p align="left"><a href="https://churnit2.herokuapp.com/">ChurnIt</a> - A credit card comparison site for people comparing cards quickly. Built in Ruby on Rails</p>
   <p align="left"><a href="https://learnit3.herokuapp.com/">LearnIt</a> - A marketplace app for tutors and students to connect via lessons and book sessions. Built in Ruby on Rails</p>
   <p align="left"><a href="https://www.avinlearning.com/">Avin Learning</a> - A Melbourne based tutoring company. Built on Wix</p>
-  <p align="left"><a href="https://react-stocks-app-psi.vercel.app/"> - A stock market tracking app. Built in React</a>
-  <p align="left"><a href="https://react-stocks-app-psi.vercel.app/"> - A meals information app for saving fav meals. Built in React</a>
-  <p align="left"><a href="https://react-stocks-app-psi.vercel.app/"> - A Team member allocation app. My first React application learning basic functions. Built in React</a>
+  <p align="left"><a href="https://react-stocks-app-psi.vercel.app/">Stocks App</a> - A stock market tracking app. Built in React
+  <p align="left"><a href="https://react-stocks-app-psi.vercel.app/">Meals App</a> - A meals information app for saving fav meals. Built in React
+  <p align="left"><a href="https://react-stocks-app-psi.vercel.app/">Team Member Allocation</a> - A Team member allocation app. My first React application learning basic functions. Built in React
 
 
 <h3 align="left">Connect with me:</h3>
