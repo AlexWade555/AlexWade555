@@ -11,7 +11,7 @@
 <p align="left"><a href="https://github.com/hendrickmanullang/churnit">ChurnIt</a> - A credit card comparison site for people comparing cards quickly. Built in Ruby on Rails</p>
   <p align="left"><a href="https://github.com/AlexWade555/rails-learnit">LearnIt</a> - A marketplace app for tutors and students to connect via lessons and book sessions. Built in Ruby on Rails</p>
   <p align="left"><a href="https://www.avinlearning.com/">Avin Learning</a> - A Melbourne based tutoring company. Built on Wix Pro</p>
-  <p align="left"><a href="https://react-film-project-six.vercel.app/">Film Project</a> - A film project displaing movies from an API. Built in React</p>
+  <p align="left"><a href="https://react-film-project-six.vercel.app/">Film Project</a> - A film project displaying movies from an API. Built in React</p>
   <p align="left"><a href="https://react-stocks-app-psi.vercel.app/">Stocks App</a> - A stock market tracking app. Built in React
   <p align="left"><a href="https://react-meals-app-eight.vercel.app/">Meals App</a> - A meals information app for saving fav meals. Built in React
   <p align="left"><a href="https://team-member-allocation-ten.vercel.app//">Team Member Allocation</a> - A Team member allocation app. My first React application learning basic functions. Built in React
